@@ -1,0 +1,5 @@
+# I created this project to try and remove a specific folder and all its contents from a batch of zip files exported from the DMS iManage. We knew that all of these zips ould have the same folders in them and the one that needed to be deleted was called "Matter Admin". The over all scope of the intended project was 250+ zipd files that needed to have the folder deleted form them.
+
+#I was never able to get this working correctly as every time I tried it would try and uncompress all of zip files to delete the requested folder. It took too much processing power to do so the project was ultimitly scrapped in favor of using more man power to accomplish the job.
+
+# This was also one of my first attempts at versioning between each change in my code. That is why there are so many file. I knew that I would need Python to do this but I copuld never quite get the correct module to work right.
